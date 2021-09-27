@@ -19,7 +19,7 @@
   as a react-redux example
 
   ## Testing:
-  Live site: 
+  Live site: https://browntuckerr.github.io/redux-stores/ 
 
   ## Additional Info:
   - Github: [Browntuckerr](https://github.com/Browntuckerr)
